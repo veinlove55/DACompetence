@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="677503d2-e0ee-42d6-ac7f-d741d3eab8bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-389115735">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1kNMkxnt9Q0iDJChP7V8sQ0FlL8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.infer_video">
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SWCompetence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yolov5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolov5/detect.py" />
+      <option name="PARAMETERS" value="--source $PROJECT_DIR$/1118_1.mov" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer_video" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SWCompetence" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infer_video.py" />
+      <option name="PARAMETERS" value="--inputPath $PROJECT_DIR$/Shuangbin.mov --outputPath $PROJECT_DIR$/demo.avi --mode=0" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.infer_video" />
+      <item itemvalue="Python.detect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677503d2-e0ee-42d6-ac7f-d741d3eab8bf" name="Default Changelist" comment="" />
+      <created>1605536743121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605536743121</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="425" y="199" width="1421" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605691980104">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="425" y="199" width="1421" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605691980104" />
+    <state x="653" y="347" width="636" height="395" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605678547969">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="653" y="347" width="636" height="395" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605678547969" />
+    <state x="1159" y="292" key="#xdebugger.evaluate" timestamp="1605691909765">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1159" y="292" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1605691909765" />
+    <state width="1641" height="485" key="DebuggerActiveHint" timestamp="1605676729784">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1641" height="485" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1605676729784" />
+    <state x="716" y="301" width="430" height="486" key="FileChooserDialogImpl" timestamp="1605619776797">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="716" y="301" width="430" height="486" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605619776797" />
+    <state width="1899" height="233" key="GridCell.Tab.0.bottom" timestamp="1605696739604">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739604" />
+    <state width="1899" height="233" key="GridCell.Tab.0.center" timestamp="1605696739604">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739604" />
+    <state width="1899" height="233" key="GridCell.Tab.0.left" timestamp="1605696739603">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739603" />
+    <state width="1899" height="233" key="GridCell.Tab.0.right" timestamp="1605696739604">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739604" />
+    <state width="1899" height="233" key="GridCell.Tab.1.bottom" timestamp="1605696739484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739484" />
+    <state width="1899" height="233" key="GridCell.Tab.1.center" timestamp="1605696739483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739483" />
+    <state width="1899" height="233" key="GridCell.Tab.1.left" timestamp="1605696739483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739483" />
+    <state width="1899" height="233" key="GridCell.Tab.1.right" timestamp="1605696739484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="233" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605696739484" />
+    <state x="449" y="175" width="1022" height="732" key="SettingsEditor" timestamp="1605589133712">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="175" width="1022" height="732" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605589133712" />
+    <state x="570" y="155" width="776" height="775" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605667206687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="570" y="155" width="776" height="775" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605667206687" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1605615258697">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605615258697" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ultra-Fast-Lane-Detection/demo.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
